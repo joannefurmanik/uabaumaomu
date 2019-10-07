@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lohdienae.robertmccutchen.tech/sitemap.xml
